@@ -1,5 +1,5 @@
 const mongoose = require('mongoose')
-//const Person = require('./Person')
+
 
 const schema =new mongoose.Schema({
 
